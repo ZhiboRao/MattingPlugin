@@ -1,0 +1,10 @@
+# some folders
+build/
+lib/
+bin/
+3rd/pytorch/
+checkpoint/*.pt
+
+# some file
+.DS_Store
+sftp-config.json
