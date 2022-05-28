@@ -6,5 +6,6 @@ bin/
 checkpoint/*.pt
 
 # some file
+example/1.png
 .DS_Store
 sftp-config.json
